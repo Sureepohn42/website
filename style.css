@@ -26,4 +26,12 @@ footer {
             margin: 0 auto;
 }
 .hadname{
-    color: rgb(84, 109, 179);}
+    color: rgb(84, 109, 179);
+  }
+
+  .graphic{
+    background-image: url("images/chantaburi-cover.jpeg");
+    height: 320px;
+    padding: auto;
+  }
+
